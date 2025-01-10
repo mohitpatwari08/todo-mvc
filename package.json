@@ -1,0 +1,22 @@
+{
+  "name": "todo-mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohitpatwari08/todo-mvc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohitpatwari08/todo-mvc/issues"
+  },
+  "homepage": "https://github.com/mohitpatwari08/todo-mvc#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.5"
+  }
+}
